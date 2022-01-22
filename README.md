@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsmesrujan
 - 👀 I’m interested in Problem Solving, Developing Middleware Libraries and Applications Software
-- 🌱 I’m currently learning Camera Firmware
+- 🌱 I have an exposure on Camera Firmware Development
 - 💞️ I’m looking to collaborate on Trending, Innovative Software Development
 - 📫 How to reach me srujan.botlaguduru@gmail.com
 
