@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsmesrujan
-- 👀 I’m interested in Problem Solving, Developing Middleware Libraries and Applications Software
-- 🌱 I have an exposure on Camera Firmware Development
+- 👀 I’m interested to compile open source codes and play around it.
+- 🌱 I have an exposure on multiple domains like smart card, telecom, aero, firmware, airline e.t.c.
 - 💞️ I’m looking to collaborate on Trending, Innovative Software Development
-- 📫 How to reach me srujan.botlaguduru@gmail.com
+- 📫 How to reach me @ nvsaisrujan992@gmail.com
 
 <!---
 itsmesrujan/itsmesrujan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
