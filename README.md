@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmesrujan
 - 👀 I’m interested to compile open source codes and play around it.
 - 🌱 I have an exposure on multiple domains like smart card, telecom, aero, firmware, airline e.t.c.
-- 💞️ I’m looking to collaborate on Trending, Innovative Software Development
+- 💞️ I’m looking to collaborate on trending and innovative Software Development projects.
 - 📫 How to reach me @ nvsaisrujan992@gmail.com
 
 <!---
