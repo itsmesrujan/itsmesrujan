@@ -7,7 +7,7 @@
 - 🌱 I secured experience on multiple domains like smart card, telecom, aero, firmware, airline and a little storage domain experience.
 - 💞️ I’m looking to
   - collaborate on trending and innovative Software Development projects.
-  - communicate big shots in the industry and would like know their success secrets
+  - communicate big shots in the industry and involve in productive discussions.
   - work on exciting projects which open doors to international market.
 - 📫 How to reach me @ nvsaisrujan992@gmail.com
 
