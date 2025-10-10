@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naga Venkata Sai Srujan Botlaguduru. Big name right :) This is because I hailed from a town called [Nellore](https://en.wikipedia.org/wiki/Nellore) which is a part of [Andhra Pradesh](https://en.wikipedia.org/wiki/Andhra_Pradesh) (one of the southeren states of [India](https://en.wikipedia.org/wiki/India)).
+- 👋 Hi, I’m Naga Venkata Sai Srujan Botlaguduru. Big name right :) This is because I hailed from a town called [Nellore](https://en.wikipedia.org/wiki/Nellore) which is a part of [Andhra Pradesh](https://en.wikipedia.org/wiki/Andhra_Pradesh) (one of the southeren states of [India](https://en.wikipedia.org/wiki/India)). In short, you can call me as Naga/Srujan.
 - 👀 I’m interested to
   - compile some of the [open source](https://en.wikipedia.org/wiki/Open_source) codes and play around it.
   - think how to make open source codes work for professional projects.
