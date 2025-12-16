@@ -2,11 +2,9 @@
 - 👀 I’m interested to
   - compile some of the [open source](https://en.wikipedia.org/wiki/Open_source) codes and play around it.
   - think system design for various domains.
-  - follow trends and excited to set trends and many more.
 - 🌱 I secured experience on multiple domains like [aero](https://en.wikipedia.org/wiki/Aero), camera systems ([surveillance camera](https://en.wikipedia.org/wiki/Surveillance)), security ([smart card](https://en.wikipedia.org/wiki/Smart_card)), storage domain([flash memory](https://en.wikipedia.org/wiki/Flash_memory)), [telecom](https://en.wikipedia.org/wiki/Telecommunications), and travel technology ([airline](https://en.wikipedia.org/wiki/Airline)).
 - 💞️ I’m looking to
   - collaborate on trending and innovative [Software Development](https://en.wikipedia.org/wiki/Software_development) projects.
-  - communicate big shots in the industry and involve in productive discussions.
   - work on exciting projects which open doors to international market.
 - 📫 You can reach me @ nvsaisrujan992@gmail.com
 
